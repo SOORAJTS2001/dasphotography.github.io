@@ -1,0 +1,138 @@
+
+#carouselExampleFade
+{
+    margin-top: -80px;
+}
+.thanks-giving
+{
+    background-color: gray;
+}
+.nav-collapse-2
+{
+    
+    position: absolute;
+}
+.intro-box
+{
+    height:40px;
+    width:40px;
+}
+.intro-card
+{
+    border-radius: 10px;
+    margin-top: 20px;
+}
+.col-allign
+{
+    text-align: center;
+    margin-left: auto;
+
+}
+.mapouter{
+    margin-top: 20px;
+    position:relative;
+    text-align:right;
+   }
+    .gmap_canvas {
+        overflow:hidden;
+        background:none!important;
+        height:auto;}
+
+
+@media screen and (min-width:320px)
+{
+.shuffle-box
+{
+    margin-top:30px;
+}
+    .intro-box
+{
+    height:80px;
+    width:80px;
+}
+    /*carousel height*/
+    .carousel-inner{
+        height:220px;
+   
+    }
+    .f-medium
+{
+    /*standard font size*/
+    font-size: 15px;
+}
+.f-large
+{
+    font-size: 20px;
+}
+.intro-image
+{
+    border-radius: 50%;
+    height: 50px;
+    width: 50px;
+    border:5px solid gainsboro;
+}
+    
+}
+.title-toggler
+{
+    height:40px;
+    width:40px;
+}
+@media screen and (min-width:520px)
+{
+    .carousel-inner{
+        height:360px;
+    }
+    .carousel-short
+    {
+        max-height:400px;
+    }
+    .carousel-short-inner
+    {
+        max-height: 380px;
+    }
+}
+@media screen and (min-width:720px)
+{
+    .carousel-inner{
+        height:450px;
+        
+    }
+   
+}
+@media screen and (min-width:920px)
+{
+    .carousel-short
+    {
+        max-height: 320px;
+    }
+    .carousel-short-inner
+    {
+        max-height: 270px;
+    }
+    .carousel-inner{
+        height:600px;
+        
+    }
+    .f-medium
+{
+    font-size: 20px;
+}
+.f-large
+{
+    font-size: 40px;
+}
+.intro-image
+{
+    height:80px;
+    width:80px;
+}
+}
+@media screen and (min-width:1200px)
+{
+    .carousel-inner{
+        height:800px;
+        
+    }
+   
+}
