@@ -1,11 +1,28 @@
-
+.mycard
+{
+    border:none;
+}
+.f-row
+{
+    text-align: justify;
+    font-size: 30px;
+    font-weight: 600;
+      margin-left:40%;
+}
+.footer-image
+{
+    margin-top: 20px;
+    
+}
 #carouselExampleFade
 {
     margin-top: -80px;
 }
 .thanks-giving
 {
-    background-color: gray;
+    background-color: rgb(24, 20, 20);
+    color:white;
+    border-radius: 12px;
 }
 .nav-collapse-2
 {
