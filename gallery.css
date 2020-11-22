@@ -1,0 +1,21 @@
+.gallery-card
+{
+ 
+    overflow: hidden;
+}
+.gallery-card img
+{
+ 
+    transition: transform .5s ease;
+}
+.gallery-card:hover img{
+    transform: scale(1.5);
+}
+.f-row
+{
+   text-align:left;
+    font-size: 30px;
+    font-weight: 600;
+    border: 2px solid black;
+    max-width:100px;
+}

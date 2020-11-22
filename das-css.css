@@ -4,10 +4,11 @@
 }
 .f-row
 {
-    text-align: justify;
+   text-align:left;
     font-size: 30px;
     font-weight: 600;
-      margin-left:40%;
+    border: 2px solid black;
+    max-width: 320px;
 }
 .footer-image
 {
